@@ -220,7 +220,7 @@ Tout litige relatif à l'interprétation et à l'exécution des présentes Condi
 
 <pre><br></pre>
 
-**Article 18- Modification des Conditions**
+**Article 18. Modification des Conditions**
 
 B2D Informatique se réserve le droit de modifier, à tout moment, les présentes Conditions générales de vente et d’utilisation. Il notifiera préalablement tout changement au Client, par email à l'adresse utilisée pour la prise de commande.
 
