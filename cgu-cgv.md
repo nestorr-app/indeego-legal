@@ -2,7 +2,7 @@
 
 **IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT**
 
-La Société B2D Informatique dont le siège social est situé au 96 rue Émile Baumann, au capital social de 1170€, inscrite au RCS de La Roche sur Yon sous le n° 884 421 413, est le créateur, développeur et éditeur du logiciel Indeego.
+La Société B2D Informatique dont le siège social est situé au 96 rue Émile Baumann 85000 La Roche sur Yon, au capital social de 1170€, inscrite au RCS de La Roche sur Yon sous le n° 884 421 413, est le créateur, développeur et éditeur du logiciel Indeego.
 
 Le logiciel est une solution visant à gérer le quotidien opérationnel des entreprises du bâtiment ainsi que de simplifier la gestion des relations entre artisans et donneurs d'ordre.
 
