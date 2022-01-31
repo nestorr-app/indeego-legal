@@ -29,17 +29,23 @@ Le Client reconnaît et accepte que les présentes Conditions générales de ven
 * **“Identifiants”** désignent l’identifiant de l’utilisateur et le mot de passe de connexion communiqués au Client après son adhésion.
 * **“Logiciel”** désigne le logiciel Indeego.
 
+<pre><br></pre>
+
 **Article 1. Objet et champ d’application**
 
 Les Conditions générales de vente et d’utilisation décrites ci-après
 
 ont pour objet de définir les termes et les conditions dans lesquels B2D Informatique accorde au Client, qui l’accepte, le droit limité, personnel, non cessible et non exclusif d'accès et d’utilisation du logiciel.
 
+<pre><br></pre>
+
 **Article 2. Conditions financières**
 
 En contrepartie du droit d'utilisation du logiciel, le Client est tenu de s'acquitter d'un abonnement. Le montant de la redevance est celui en vigueur au jour de la prise de commande. Il est libellé en euros et calculé hors taxes.B2D Informatique se réserve la possibilité de réviser ce montant à chaque renouvellement, dans la limite de dix pourcents du montant de l’abonnement standard fixé.
 
 Les éventuelles remises commerciales consenties lors de la souscription d’un abonnement ne sont acquises que pour la période concernée et ne sauraient faire l’objet d’une reconduction tacite lors du renouvellement sans que cela n’ait été accepté par le Client.
+
+<pre><br></pre>
 
 **Article 3. Modalités de paiement**
 
@@ -51,6 +57,8 @@ Les redevances, en fonction de l’offre, sont :
 * ***Offre donneur d’ordres** : la redevance annuelle est payable annuellement pour 2388€ HT et mensuellement pour 219€ HT, en début de période concernée.
 * ***Offre prestataire ET donneur d’ordres** : la redevance annuelle est payable annuellement pour 2628€ HT et mensuellement pour 239€ HT, en début de période concernée.
 
+<pre><br></pre>
+
 **Article 4. Retard de paiement**
 
 Tout retard de paiement donnera lieu, sans mise en demeure préalable, à l’application de pénalités de retard au taux de cinq (5) fois le taux de l’intérêt légal par jour de retard.
@@ -59,15 +67,21 @@ Dans le cas où le paiement du prix de l'abonnement n'aurait pas été effectué
 
 Cette suspension n’entraîne aucune modification du montant de la redevance qui reste dû pour toute la période en cours. Le service reprendra dès que la cause de suspension aura disparu, sans prolongation de la période en cours.
 
+<pre><br></pre>
+
 **Article 5. Commande et livraison des abonnements**
 
 Après réception de la commande par B2D Informatique, le Client recevra par e-mail les indications à suivre ainsi que ses identifiants lui permettant de se connecter à son espace membre.
 
 La date à laquelle ces informations lui sont fournies est reconnue comme étant la date de livraison du service commandé.
 
+<pre><br></pre>
+
 **Article 6. Durée d'engagement**
 
 Le Contrat est conclu pour une durée d'un (1) an à compter de la date de livraison du service commandé. Ces droits sont reconduits tacitement par périodes successives de douze (12) mois à chaque date d’anniversaire, sauf dénonciation par l’une des parties par lettre recommandée avec accusé de réception au minimum un (1) mois avant l’expiration de la période en cours.
+
+<pre><br></pre>
 
 **Article 7. Accès à la plateforme d’exploitation**
 
@@ -76,6 +90,8 @@ Chaque utilisateur dispose d’identifiants pour se connecter à son espace memb
 L’accès au logiciel se fait à distance, depuis l’adresse communiquée au Client. Il est accessible de manière permanente. Toutefois, B2D Informatique pourra, en cas de besoin, interrompre les services liés à Indeego dans le cadre de la plage de maintenance (entre 21h00 et 07h00, heure française), notamment pour effectuer des opérations de sauvegarde des données et/ou de maintenance.
 
 B2D Informatique s’engage à informer le Client à l’avance de toute interruption programmée du logiciel en dehors de la plage de maintenance. Toutefois, les opérations de maintenance exceptionnelle sont exclues de cette mesure d’information.
+
+<pre><br></pre>
 
 **Article 8. Droits d’utilisation**
 
@@ -90,6 +106,8 @@ Il est notamment interdit au Client de procéder à :
 * toute mise à disposition directe ou indirecte du logiciel à un tiers, notamment par location, cession ou prêt, même à titre gratuit, ou de le confier à un prestataire quelconque dans le cadre d'une externalisation sauf en cas d’accord préalable écrit de B2D Informatique,
 * toute utilisation pour un traitement non autorisé par B2D Informatique.
 
+<pre><br></pre>
+
 **Article 9. Assistance et maintenance**
 
 Pendant la durée du présent Contrat, le Client bénéficie de la fourniture et l’installation des mises à jour correctives, évolutives et technologiques du logiciel.
@@ -101,12 +119,16 @@ Par ailleurs, B2D Informatique fournira, concernant l’utilisation d’Indeego,
 * par email sur [support@indeego.fr](mailto:support@indeego.fr),
 * par téléphone au 02.52.43.08.74.
 
+<pre><br></pre>
+
 **Article 10. Les mesures de protection**
 
 Le Client accepte que :
 
 * le logiciel comporte des dispositifs techniques permettant de communiquer à Indeego des informations sur son identification, l’appareil utilisé et sa géolocalisation,
 * les informations obtenues par Indeego à travers ces dispositifs peuvent être utilisées par Indeego dans le cadre de lutte anti-contrefaçon, pour détecter et empêcher une utilisation illicite ou non-conforme du logiciel.
+
+<pre><br></pre>
 
 **Article 11. Protection des données personnelles**
 
@@ -140,15 +162,21 @@ En cas de questionnement, la personne en charge de la protection des données et
 * M. Florian Bezagu,
 * joignable pour toute demande sur ce sujet à [dpo@indeego.fr](mailto:dpo@indeego.fr).
 
+<pre><br></pre>
+
 **Article 12. Droit de la propriété intellectuelle**
 
 Les éléments fournis par le Client reste sa seule propriété. Il est seul responsable du respect des droits de propriété intellectuelle afférents aux informations, données et contenus qu’il transmet à B2D Informatique.
 
 Toute création de B2D Informatique, au sens du Code de la propriété intellectuelle, reste sa propriété exclusive. Sauf convention contraire relative à une cession des droits d’auteur plus étendue, le Client acquiert uniquement le droit d’utiliser les créations de B2D Informatique conformément à la finalité de la commande.
 
+<pre><br></pre>
+
 **Article 13. Clause de réserve de propriété**
 
 Seule la licence d’utilisation consentie dans le cadre de l’abonnement Indeego est délivrée au Client en contrepartie du paiement intégral du prix indiqué sur son bon de commande. B2D Informatique conserve la propriété intégrale du logiciel.r>
+
+<pre><br></pre>
 
 **Article 14. Force majeure**
 
@@ -164,6 +192,8 @@ L'exécution de l’obligation est suspendue pendant toute la durée de la force
 
 La partie empêchée avertira l’autre de la reprise de son obligation par lettre recommandée avec demande d’avis de réception ou tout acte extrajudiciaire.
 
+<pre><br></pre>
+
 **Article 15. Responsabilité**
 
 Le Client garantit qu'il dispose des autorisations nécessaires à l’utilisation et/ou la diffusion des informations et données hébergées par B2D Informatique et est seul responsable des conséquences de leur mise à disposition du public.
@@ -172,11 +202,15 @@ B2D Informatique est tenu à une obligation de moyens et ne peut pas, par consé
 
 B2D Informatique ne peut être tenu responsable ni du fait de tiers, ni des préjudices indirects tels que, des pertes d’exploitation, des préjudices commerciaux, de perte de Clientèle, de perte de commande, de perte de bénéfice, d’atteinte à l'image de marque.
 
+<pre><br></pre>
+
 **Article 16. Résiliation**
 
 En cas de manquement par l'une des parties à une obligation essentielle prévue au présent Contrat, non réparé dans un délai de trente (30) jours calendaires à compter de l'envoi d'une lettre recommandée avec accusé de réception notifiant le manquement, l'autre partie pourra faire valoir la résiliation du Contrat sous réserve des dommages et intérêts auxquels elle pourrait prétendre en vertu des présentes.
 
 En tout état de cause, les cas de résiliation impliquent que le Client n’a plus le droit d’accéder au logiciel. La résiliation, ou la fin pour quelque raison que ce soit, du présent Contrat ne donne pas lieu au remboursement des sommes encaissées par B2D Informatique
+
+<pre><br></pre>
 
 **Article 17. Droit applicable et attribution de juridiction**
 
@@ -184,19 +218,27 @@ Tout litige relatif à l'interprétation et à l'exécution des présentes Condi
 
 À défaut de résolution amiable, le litige sera porté devant le Tribunal de commerce de La-Roche-Sur-Yon.
 
+<pre><br></pre>
+
 **Article 18- Modification des Conditions**
 
 B2D Informatique se réserve le droit de modifier, à tout moment, les présentes Conditions générales de vente et d’utilisation. Il notifiera préalablement tout changement au Client, par email à l'adresse utilisée pour la prise de commande.
 
 À compter de cette notification, le Client aura la possibilité de refuser d’adhérer à ces CGV modifiées. Pour cela, il devra le notifier à B2D Informatique, sous un délai de 15 jours par lettre recommandée avec accusé de réception. À défaut, les Conditions générales de vente et d’utilisation modifiées sont réputées être acceptées par le Client et lui seront opposables.
 
+<pre><br></pre>
+
 **Article 19. Nullité**
 
 Si l’une des dispositions des Conditions générales de vente et d’utilisation est réputée nulle, elle sera réputée non écrite mais les autres dispositions garderont leur force et leur portée, à moins que la disposition annulée soit essentielle pour B2D Informatique, auquel cas le Contrat sera réputé résilié dans son ensemble.
 
+<pre><br></pre>
+
 **Article 20. Cession du Contrat**
 
 Le Contrat entre le Client et B2D Informatique est conclu intuitu personae. Par conséquent, les droits du Client découlant du Contrat ne peuvent être cédés, sous licenciés, vendus ou transférés de quelque autre manière par le Client, sauf accord préalable écrit de B2D Informatique.
+
+<pre><br></pre>
 
 **Article 21. Confidentialité**
 
@@ -207,6 +249,8 @@ Ne sont pas des informations confidentielles celles qui, en l'absence de faute, 
 La partie disposant d’une information confidentielle en préservera le caractère confidentiel avec un soin non inférieur à celui qu'elle apporte à la préservation de sa propre information confidentielle. Elle ne pourra les communiquer ou les divulguer à des tiers, si ce n'est avec l'accord écrit et préalable de l’autre partie ou dans la mesure éventuellement requise par la loi.
 
 Les termes de cette obligation sont valables pendant toute la durée de validité du présent Contrat et pendant les deux (2) ans qui suivront sa fin.
+
+<pre><br></pre>
 
 **Article 22. Renonciation**
 
