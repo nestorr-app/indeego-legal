@@ -1,4 +1,4 @@
-*Version du 31/01/2022*
+*Version du 03/02/2022*
 
 **IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT**
 
@@ -41,7 +41,9 @@ ont pour objet de définir les termes et les conditions dans lesquels B2D Inform
 
 **Article 2. Conditions financières**
 
-En contrepartie du droit d'utilisation du logiciel, le Client est tenu de s'acquitter d'un abonnement. Le montant de la redevance est celui en vigueur au jour de la prise de commande. Il est libellé en euros et calculé hors taxes.B2D Informatique se réserve la possibilité de réviser ce montant à chaque renouvellement, dans la limite de dix pourcents du montant de l’abonnement standard fixé.
+En contrepartie du droit d'utilisation du logiciel, le Client est tenu de s'acquitter d'un abonnement. Le montant de la redevance est celui en vigueur au jour de la prise de commande. Il est libellé en euros et calculé hors taxes.
+
+B2D Informatique se réserve la possibilité de réviser ce montant à chaque renouvellement, dans la limite de dix pour cent du montant de l’abonnement fixé initialement.
 
 Les éventuelles remises commerciales consenties lors de la souscription d’un abonnement ne sont acquises que pour la période concernée et ne sauraient faire l’objet d’une reconduction tacite lors du renouvellement sans que cela n’ait été accepté par le Client.
 
@@ -112,7 +114,7 @@ Il est notamment interdit au Client de procéder à :
 
 Pendant la durée du présent Contrat, le Client bénéficie de la fourniture et l’installation des mises à jour correctives, évolutives et technologiques du logiciel.
 
-Par ailleurs, B2D Informatique fournira, concernant l’utilisation d’Indeego, au Client une assistance aux jours, heures et via les canaux suivants :
+Par ailleurs, B2D Informatique fournira au Client une assistance concernant l’utilisation du logiciel  aux jours, heures et via les canaux suivants :
 
 * les jours ouvrés de 9h à 12h et de 14h à 18h,
 * par chat sur l’application web via la bulle de discussion présente en bas à droite,
@@ -153,7 +155,7 @@ Chaque personne dont les données personnelles font l’objet d’un traitement 
 
 Le Client est informé du droit de saisir l’autorité administrative compétente s’il estime que ses droits n’ont pas été respectés.
 
-B2D Informatique assure, dans le cadre des règles de sécurité en vigueur au jour de la signature du devis, la protection de l’ensemble du logiciel, des traitements et des transmissions effectués, ainsi que des sauvegardes réalisées sur la plateforme.
+B2D Informatique assure, dans le cadre des règles de sécurité en vigueur au jour de la signature du devis ou au jour de la livraison, la protection de l’ensemble du logiciel, des traitements et des transmissions effectués, ainsi que des sauvegardes réalisées sur la plateforme.
 
 B2D Informatique s’engage à fournir ou à supprimer, conformément aux dispositions ci-dessus, les données concernant une personne dans un délai de 30 jours sous forme de fichiers .csv.
 
