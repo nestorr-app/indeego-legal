@@ -1,4 +1,4 @@
-*Version du 03/02/2022*
+*Version du 14/05/2022*
 
 **IL A ÉTÉ PRÉALABLEMENT EXPOSÉ CE QUI SUIT**
 
@@ -51,13 +51,16 @@ Les éventuelles remises commerciales consenties lors de la souscription d’un 
 
 **Article 3. Modalités de paiement**
 
-Le règlement des commandes s'effectue par prélèvement bancaire, paiement CB en ligne ou virement bancaire. Le mode de paiement par virement n’est disponible que pour les paiements annuels.
+Le règlement des commandes s'effectue par prélèvement bancaire, paiement CB en ligne ou virement bancaire. Le mode de paiement par virement n’est disponible que pour les paiements annuels. Dans le cadre où le Client est une entité publique, la facture associée sera déposée sur Chorus PRO.
 
 Les redevances, en fonction de l’offre, sont :
 
 * ***Offre prestataire** : la redevance annuelle est payable annuellement pour 1428€ HT et mensuellement pour 129€ HT, en début de période concernée.
 * ***Offre donneur d’ordres** : la redevance annuelle est payable annuellement pour 2388€ HT et mensuellement pour 219€ HT, en début de période concernée.
 * ***Offre prestataire ET donneur d’ordres** : la redevance annuelle est payable annuellement pour 2628€ HT et mensuellement pour 239€ HT, en début de période concernée.
+* ***Tout espace supplémentaire à l'abonnement initial** : la redevance annuelle est payable annuellement pour 588€ HT et mensuellement pour 59€ HT, en début de période concernée.
+
+Dans le cas où le Client est une entité publique, une facture trimestrielle sera envoyée tout au long de la durée de vie de l’abonnement et le paiement de ladite facture dépendra du type d’entité du Client et ne pourra en aucun cas dépasser soixante jours à date de facture.
 
 <pre><br></pre>
 
@@ -166,7 +169,22 @@ En cas de questionnement, la personne en charge de la protection des données et
 
 <pre><br></pre>
 
-**Article 12. Droit de la propriété intellectuelle**
+**Article 12. Réversibilité des données**
+
+Si le Client le souhaite, il pourra faire la demande auprès du Prestataire via l’adresse email [support@indeego.fr](mailto:support@indeego.fr) un export de l’ensemble des données le concernant dans l’application Indeego. Ces données seront fournies sous forme de fichiers CSV et comporteront toutes données textuelles détenues ou en lien avec l’utilisation d’Indeego du Client ainsi que les fichiers reçus ou déposés via la plateforme.
+
+<pre><br></pre>
+
+**Article 13. Sécurité des données**
+
+Le Prestataire s’engage à ne divulguer aucune donnée du Client à aucun tiers autre que ceux définis préalablement dans ce contrat et obligatoires pour le bon fonctionnement de l’application. De plus, voici la liste des personnes autorisées à accéder aux bases de données de production de l’application dans le cadre de son administration :
+* Florian Bezagu
+
+Aucune copie de la base n’est faite sur d’autres environnements techniques que ce soit dans un objectif de développements ou de tests.
+
+<pre><br></pre>
+
+**Article 14. Droit de la propriété intellectuelle**
 
 Les éléments fournis par le Client reste sa seule propriété. Il est seul responsable du respect des droits de propriété intellectuelle afférents aux informations, données et contenus qu’il transmet à B2D Informatique.
 
@@ -174,13 +192,13 @@ Toute création de B2D Informatique, au sens du Code de la propriété intellect
 
 <pre><br></pre>
 
-**Article 13. Clause de réserve de propriété**
+**Article 15. Clause de réserve de propriété**
 
 Seule la licence d’utilisation consentie dans le cadre de l’abonnement Indeego est délivrée au Client en contrepartie du paiement intégral du prix indiqué sur son bon de commande. B2D Informatique conserve la propriété intégrale du logiciel.r>
 
 <pre><br></pre>
 
-**Article 14. Force majeure**
+**Article 16. Force majeure**
 
 Les Parties ne pourront être tenues pour responsables si la non-exécution ou le retard dans l'exécution de l’une de leurs obligations, telles que décrites dans les présentes, est dû à un cas de force majeure tel que décrit dans l’article 1218 du Code Civil.
 
@@ -196,7 +214,7 @@ La partie empêchée avertira l’autre de la reprise de son obligation par lett
 
 <pre><br></pre>
 
-**Article 15. Responsabilité**
+**Article 17. Responsabilité**
 
 Le Client garantit qu'il dispose des autorisations nécessaires à l’utilisation et/ou la diffusion des informations et données hébergées par B2D Informatique et est seul responsable des conséquences de leur mise à disposition du public.
 
@@ -206,7 +224,7 @@ B2D Informatique ne peut être tenu responsable ni du fait de tiers, ni des pré
 
 <pre><br></pre>
 
-**Article 16. Résiliation**
+**Article 18. Résiliation**
 
 En cas de manquement par l'une des parties à une obligation essentielle prévue au présent Contrat, non réparé dans un délai de trente (30) jours calendaires à compter de l'envoi d'une lettre recommandée avec accusé de réception notifiant le manquement, l'autre partie pourra faire valoir la résiliation du Contrat sous réserve des dommages et intérêts auxquels elle pourrait prétendre en vertu des présentes.
 
@@ -214,7 +232,7 @@ En tout état de cause, les cas de résiliation impliquent que le Client n’a p
 
 <pre><br></pre>
 
-**Article 17. Droit applicable et attribution de juridiction**
+**Article 19. Droit applicable et attribution de juridiction**
 
 Tout litige relatif à l'interprétation et à l'exécution des présentes Conditions générales de vente est soumis au droit français.
 
@@ -222,7 +240,7 @@ Tout litige relatif à l'interprétation et à l'exécution des présentes Condi
 
 <pre><br></pre>
 
-**Article 18. Modification des Conditions**
+**Article 20. Modification des Conditions**
 
 B2D Informatique se réserve le droit de modifier, à tout moment, les présentes Conditions générales de vente et d’utilisation. Il notifiera préalablement tout changement au Client, par email à l'adresse utilisée pour la prise de commande.
 
@@ -230,19 +248,19 @@ B2D Informatique se réserve le droit de modifier, à tout moment, les présente
 
 <pre><br></pre>
 
-**Article 19. Nullité**
+**Article 21. Nullité**
 
 Si l’une des dispositions des Conditions générales de vente et d’utilisation est réputée nulle, elle sera réputée non écrite mais les autres dispositions garderont leur force et leur portée, à moins que la disposition annulée soit essentielle pour B2D Informatique, auquel cas le Contrat sera réputé résilié dans son ensemble.
 
 <pre><br></pre>
 
-**Article 20. Cession du Contrat**
+**Article 22. Cession du Contrat**
 
 Le Contrat entre le Client et B2D Informatique est conclu intuitu personae. Par conséquent, les droits du Client découlant du Contrat ne peuvent être cédés, sous licenciés, vendus ou transférés de quelque autre manière par le Client, sauf accord préalable écrit de B2D Informatique.
 
 <pre><br></pre>
 
-**Article 21. Confidentialité**
+**Article 23. Confidentialité**
 
 En application du présent Contrat, les parties pourront avoir accès à des informations confidentielles de l'autre partie. Sont considérées comme des informations confidentielles toutes les informations (documents, données, savoir-faire, prototypes, informations, outils, logiciels, etc.) fournies ou divulguées, quelles que soient la forme ou le support, oralement ou par écrit, par ou pour le compte de B2D Informatique au Client, ainsi que les termes et Conditions du Contrat s’y rapportant ou pris en exécution du Contrat.
 
@@ -254,7 +272,7 @@ Les termes de cette obligation sont valables pendant toute la durée de validit�
 
 <pre><br></pre>
 
-**Article 22. Renonciation**
+**Article 24. Renonciation**
 
 Dans le cas où l'une des parties ne se prévaut pas d'un manquement de l'autre partie à l'une des obligations visées dans les présentes, cela ne pourrait être interprété comme une renonciation à l'obligation en cause.
 
